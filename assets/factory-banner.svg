@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" role="img" aria-labelledby="title desc">
+<title id="title">Factorio Mods</title>
+<desc id="desc">Charcoal banner with a gold factory silhouette matching the organization avatar.</desc>
+<rect width="1600" height="480" rx="20" fill="#182125"/>
+<text x="105" y="205" font-family="Segoe UI,Arial,sans-serif" font-size="78" font-weight="700" fill="#f4eee1">Factorio Mods</text>
+<text x="110" y="268" font-family="Segoe UI,Arial,sans-serif" font-size="30" fill="#c4d0c7">Maintained forks. Practical fixes.</text>
+<text x="110" y="328" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#dda84c">Source code · Releases · Compatibility</text>
+<g transform="translate(1110 82) scale(.43)" fill="#dda84c">
+<path d="M0 715V295L235 438V295L468 438V104H499V0H617V104H648V715Z"/>
+<g fill="#182125"><rect x="72" y="524" width="96" height="99"/><rect x="279" y="524" width="96" height="99"/><rect x="487" y="524" width="96" height="99"/></g>
+</g>
+</svg>

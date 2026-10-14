@@ -1,4 +1,4 @@
-![Factorio Mods](https://raw.githubusercontent.com/FactorioMods/.github/main/assets/banner.svg)
+![Factorio Mods](https://raw.githubusercontent.com/FactorioMods/.github/main/assets/factory-banner.svg)
 
 We maintain forks of Factorio mods with practical fixes and clear release notes. Original authors and licenses are credited in each repository.
 
