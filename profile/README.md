@@ -12,9 +12,15 @@ An updated fork of Magic Science Chest by Dreaden. Supplies unlocked science pac
 
 Endgame comparison results are included in the mod's description. Performance depends on the workload; no general UPS increase is promised.
 
+### Pollution Absorber: Improved
+
+Burns fuel to absorb nearby pollution. Caches sampling positions and combines repeated pollution checks while keeping the original absorption behavior. Forked from yanhanv's Pollution Absorber.
+
+[Download on GitHub](https://github.com/FactorioMods/pollution-absorber-improved/releases) · [Source code](https://github.com/FactorioMods/pollution-absorber-improved) · [Report an issue](https://github.com/FactorioMods/pollution-absorber-improved/issues)
+
 ## Playing together
 
-Install mods through Factorio's Mod Portal. Everyone joining a multiplayer game needs the same mod versions as the host. Check each mod's installation notes before replacing an existing mod.
+Use each mod's download link above. Everyone joining a multiplayer game needs the same mod versions as the host. Check each mod's installation notes before replacing an existing mod.
 
 ## Feedback
 
