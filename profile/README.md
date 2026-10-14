@@ -16,7 +16,7 @@ Endgame comparison results are included in the mod's description. Performance de
 
 Burns fuel to absorb nearby pollution. Caches sampling positions and combines repeated pollution checks while keeping the original absorption behavior. Forked from yanhanv's Pollution Absorber.
 
-[Download on GitHub](https://github.com/FactorioMods/pollution-absorber-improved/releases) · [Source code](https://github.com/FactorioMods/pollution-absorber-improved) · [Report an issue](https://github.com/FactorioMods/pollution-absorber-improved/issues)
+[Download on the Mod Portal](https://mods.factorio.com/mod/pollution-absorber-improved) · [Source code](https://github.com/FactorioMods/pollution-absorber-improved) · [Report an issue](https://github.com/FactorioMods/pollution-absorber-improved/issues)
 
 ## Playing together
 
