@@ -1,29 +1,24 @@
 ![Factorio Mods](https://raw.githubusercontent.com/FactorioMods/.github/main/assets/factory-banner.svg)
 
-We maintain forks of Factorio mods with practical fixes and clear release notes. Original authors and licenses are credited in each repository.
+Factorio 2.1 ports and maintenance forks. Original authors and licenses are credited in each repository.
 
-## Available mods
+| Mod | Source |
+|---|---|
+| [Advanced Assembly Machines: Improved](https://mods.factorio.com/mod/advanced-assembling-machine-improved) | [GitHub](https://github.com/FactorioMods/advanced-assembling-machine-improved) |
+| [Black Market 2: Updated](https://mods.factorio.com/mod/black-market-2-updated) | [GitHub](https://github.com/FactorioMods/black-market-2-updated) |
+| [Bots have Infinite Charge: Updated](https://mods.factorio.com/mod/bots-infinite-charge-updated) | [GitHub](https://github.com/FactorioMods/bots-infinite-charge-updated) |
+| [Even Distribution: Updated](https://mods.factorio.com/mod/even-distribution-updated) | [GitHub](https://github.com/FactorioMods/even-distribution-updated) |
+| [Factorio UPS+: Updated](https://mods.factorio.com/mod/factorio-ups-updated) | [GitHub](https://github.com/FactorioMods/factorio-ups-updated) |
+| [Advanced Furnaces 2 SpaceAgeFix: Updated](https://mods.factorio.com/mod/advanced-furnaces-2-updated) | [GitHub](https://github.com/FactorioMods/advanced-furnaces-2-updated) |
+| [Magic Science Chest: Improved](https://mods.factorio.com/mod/magic-science-chest-optimized) | [GitHub](https://github.com/FactorioMods/factorio-mod-magic-science-chest-improved) |
+| [Matt's Library: Updated](https://mods.factorio.com/mod/matts-lib-updated) | [GitHub](https://github.com/FactorioMods/matts-lib-updated) |
+| [Matt's Logistics: Updated](https://mods.factorio.com/mod/matts-logistics-updated) | [GitHub](https://github.com/FactorioMods/matts-logistics-updated) |
+| [Max Rate Calculator: Updated](https://mods.factorio.com/mod/max-rate-calculator-updated) | [GitHub](https://github.com/FactorioMods/max-rate-calculator-updated) |
+| [Miniloader (Redux) Fork](https://mods.factorio.com/mod/miniloader-redux-fork) | [GitHub](https://github.com/FactorioMods/factorio-miniloader-redux-fork) |
+| [No Power Drains: Improved](https://mods.factorio.com/mod/no-power-drains-improved) | [GitHub](https://github.com/FactorioMods/no-power-drains-improved) |
+| [Pollution Absorber: Improved](https://mods.factorio.com/mod/pollution-absorber-improved) | [GitHub](https://github.com/FactorioMods/pollution-absorber-improved) |
+| [Quality Unlocked from Start: Updated](https://mods.factorio.com/mod/quality-unlocked-from-start-updated) | [GitHub](https://github.com/FactorioMods/quality-unlocked-from-start-updated) |
 
-### Magic Science Chest: Improved
+Use the Mod Portal links to install. Multiplayer peers need matching versions and startup settings. Check the installation notes before switching from an original mod.
 
-An updated fork of Magic Science Chest by Dreaden. Supplies unlocked science packs automatically, with fixes for chest updates and the information window. Keeps the original refill behavior and supports existing Magic Science Chest saves.
-
-[Download on the Mod Portal](https://mods.factorio.com/mod/magic-science-chest-optimized) · [Source code](https://github.com/FactorioMods/factorio-mod-magic-science-chest-improved) · [Report an issue](https://github.com/FactorioMods/factorio-mod-magic-science-chest-improved/issues)
-
-Endgame comparison results are included in the mod's description. Performance depends on the workload; no general UPS increase is promised.
-
-### Pollution Absorber: Improved
-
-Burns fuel to absorb nearby pollution. Caches sampling positions and combines repeated pollution checks while keeping the original absorption behavior. Forked from yanhanv's Pollution Absorber.
-
-[Download on the Mod Portal](https://mods.factorio.com/mod/pollution-absorber-improved) · [Source code](https://github.com/FactorioMods/pollution-absorber-improved) · [Report an issue](https://github.com/FactorioMods/pollution-absorber-improved/issues)
-
-## Playing together
-
-Use each mod's download link above. Everyone joining a multiplayer game needs the same mod versions as the host. Check each mod's installation notes before replacing an existing mod.
-
-## Feedback
-
-Report bugs in the relevant repository with the Factorio version, mod version, and steps to reproduce the problem.
-
-Independent community projects; not affiliated with Wube Software.
+Report bugs in the relevant repository with the Factorio version, mod version and steps to reproduce.
