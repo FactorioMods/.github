@@ -9,7 +9,7 @@ Factorio 2.1 ports and maintenance forks. Original authors and licenses are cred
 | Bots have Infinite Charge: Updated | [Mod Portal](https://mods.factorio.com/mod/bots-infinite-charge-updated) | [GitHub](https://github.com/FactorioMods/bots-infinite-charge-updated) |
 | Even Distribution: Updated | [Mod Portal](https://mods.factorio.com/mod/even-distribution-updated) | [GitHub](https://github.com/FactorioMods/even-distribution-updated) |
 | Factorio UPS+: Updated | [Mod Portal](https://mods.factorio.com/mod/factorio-ups-updated) | [GitHub](https://github.com/FactorioMods/factorio-ups-updated) |
-| FurnaceWorks: Advanced Furnaces | [Mod Portal](https://mods.factorio.com/mod/advanced-furnaces-2-updated) | [GitHub](https://github.com/FactorioMods/advanced-furnaces-2-updated) |
+| Advanced Furnaces 2: Improved | [Mod Portal](https://mods.factorio.com/mod/advanced-furnaces-2-updated) | [GitHub](https://github.com/FactorioMods/advanced-furnaces-2-updated) |
 | Magic Science Chest: Improved | [Mod Portal](https://mods.factorio.com/mod/magic-science-chest-optimized) | [GitHub](https://github.com/FactorioMods/factorio-mod-magic-science-chest-improved) |
 | Matt's Library: Updated | [Mod Portal](https://mods.factorio.com/mod/matts-lib-updated) | [GitHub](https://github.com/FactorioMods/matts-lib-updated) |
 | Matt's Logistics: Updated | [Mod Portal](https://mods.factorio.com/mod/matts-logistics-updated) | [GitHub](https://github.com/FactorioMods/matts-logistics-updated) |
