@@ -11,7 +11,6 @@ Factorio 2.1 ports and maintenance forks. Original authors and licenses are cred
 | Factorio UPS+: Updated | [Mod Portal](https://mods.factorio.com/mod/factorio-ups-updated) | [GitHub](https://github.com/FactorioMods/factorio-ups-updated) |
 | Advanced Furnaces 2: Improved | [Mod Portal](https://mods.factorio.com/mod/advanced-furnaces-2-updated) | [GitHub](https://github.com/FactorioMods/advanced-furnaces-2-updated) |
 | Magic Science Chest: Improved | [Mod Portal](https://mods.factorio.com/mod/magic-science-chest-optimized) | [GitHub](https://github.com/FactorioMods/factorio-mod-magic-science-chest-improved) |
-| Matt's Library: Updated | [Mod Portal](https://mods.factorio.com/mod/matts-lib-updated) | [GitHub](https://github.com/FactorioMods/matts-lib-updated) |
 | Matt's Logistics: Updated | [Mod Portal](https://mods.factorio.com/mod/matts-logistics-updated) | [GitHub](https://github.com/FactorioMods/matts-logistics-updated) |
 | Max Rate Calculator: Updated | [Mod Portal](https://mods.factorio.com/mod/max-rate-calculator-updated) | [GitHub](https://github.com/FactorioMods/max-rate-calculator-updated) |
 | Miniloader (Redux) Fork | [Mod Portal](https://mods.factorio.com/mod/miniloader-redux-fork) | [GitHub](https://github.com/FactorioMods/factorio-miniloader-redux-fork) |
@@ -20,5 +19,7 @@ Factorio 2.1 ports and maintenance forks. Original authors and licenses are cred
 | Quality Unlocked from Start: Updated | [Mod Portal](https://mods.factorio.com/mod/quality-unlocked-from-start-updated) | [GitHub](https://github.com/FactorioMods/quality-unlocked-from-start-updated) |
 
 Use the Mod Portal links to install. Multiplayer peers need matching versions and startup settings. Check the installation notes before switching from an original mod.
+
+Matt’s Logistics uses the maintained original [Matt’s Library](https://mods.factorio.com/mod/matts-lib). Our library compatibility fork is retired; [migration notes and older releases](https://github.com/FactorioMods/matts-lib-updated) remain available.
 
 Report bugs in the relevant repository with the Factorio version, mod version and steps to reproduce.
