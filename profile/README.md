@@ -7,7 +7,7 @@ Factorio 2.1 ports and maintenance forks. Original authors and licenses are cred
 | Advanced Assembly Machines: Improved | 1.1.4 | [Mod Portal](https://mods.factorio.com/mod/advanced-assembling-machine-improved) | [GitHub](https://github.com/FactorioMods/advanced-assembling-machine-improved) |
 | Black Market 2: Updated | 1.0.4 | [Mod Portal](https://mods.factorio.com/mod/black-market-2-updated) | [GitHub](https://github.com/FactorioMods/black-market-2-updated) |
 | Bots have Infinite Charge: Updated | 1.0.1 | [Mod Portal](https://mods.factorio.com/mod/bots-infinite-charge-updated) | [GitHub](https://github.com/FactorioMods/bots-infinite-charge-updated) |
-| Early Foundations: Fulgora Exclusive | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/early-foundations-fulgora-exclusive) | [GitHub](https://github.com/FactorioMods/early-foundations-fulgora-exclusive) |
+| Early Foundations: Fulgora Exclusive | 1.0.1 | [Mod Portal](https://mods.factorio.com/mod/early-foundations-fulgora-exclusive) | [GitHub](https://github.com/FactorioMods/early-foundations-fulgora-exclusive) |
 | Even Distribution: Updated | 1.0.3 | [Mod Portal](https://mods.factorio.com/mod/even-distribution-updated) | [GitHub](https://github.com/FactorioMods/even-distribution-updated) |
 | Factorio UPS+: Updated | 1.0.4 | [Mod Portal](https://mods.factorio.com/mod/factorio-ups-updated) | [GitHub](https://github.com/FactorioMods/factorio-ups-updated) |
 | Advanced Furnaces 2: Improved | 1.1.3 | [Mod Portal](https://mods.factorio.com/mod/advanced-furnaces-2-updated) | [GitHub](https://github.com/FactorioMods/advanced-furnaces-2-updated) |
