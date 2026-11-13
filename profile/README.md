@@ -33,7 +33,7 @@ Report bugs in the relevant repository with the Factorio version, mod version an
 | Adjustable Cannon Turret: Updated | 1.0.2 | [Mod Portal](https://mods.factorio.com/mod/adjustable-cannon-turret-updated) | [GitHub](https://github.com/FactorioMods/adjustable-cannon-turret-updated) |
 | Age of Production: Legacy | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/age-of-production-legacy) | [GitHub](https://github.com/FactorioMods/age-of-production-legacy) |
 | alterae's Bigger Cargo Wagons: Updated | 1.1.3 | [Mod Portal](https://mods.factorio.com/mod/bigger-cargo-wagons-updated) | [GitHub](https://github.com/FactorioMods/bigger-cargo-wagons-updated) |
-| Aquilo Thermometer: Updated | 1.0.2 | [Mod Portal](https://mods.factorio.com/mod/aquilo-thermometer-updated) | [GitHub](https://github.com/FactorioMods/aquilo-thermometer-updated) |
+| Aquilo Thermometer: Updated | 1.0.3 | [Mod Portal](https://mods.factorio.com/mod/aquilo-thermometer-updated) | [GitHub](https://github.com/FactorioMods/aquilo-thermometer-updated) |
 | Beacon Productivity and Quality for Space Age: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/rosnok-productivity-quality-beacon-updated) | [GitHub](https://github.com/FactorioMods/rosnok-productivity-quality-beacon-updated) |
 | Beautiful Bridge Railway: Updated | 1.1.2 | [Mod Portal](https://mods.factorio.com/mod/beautiful-bridge-railway-updated) | [GitHub](https://github.com/FactorioMods/beautiful-bridge-railway-updated) |
 | Better Cargo Planes: Updated | 1.3.8 | [Mod Portal](https://mods.factorio.com/mod/better-cargo-planes-updated) | [GitHub](https://github.com/FactorioMods/better-cargo-planes-updated) |
